@@ -1,2 +1,3 @@
 # NameSurname-Week1-Homework
-Projelerinizi İsimSoyisim-HaftaNumarası-Ödev şeklinde yüklemeniz gerekmektedir.
+Projelerinizi İsimSoyisim-HaftaveHaftaNumarası-Ödev şeklinde yüklemeniz gerekmektedir.
+- Örneğin: NurayKilic-Week3-Homework3
